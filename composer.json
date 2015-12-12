@@ -1,6 +1,5 @@
 {
     "name": "dreamcoil/packagist",
-    "type": "library",
     "description": "Packagist for Dreamcoil",
     "keywords": ["dreamcoil","packagist"],
     "license": "MIT",
@@ -12,4 +11,7 @@
             "role": "Developer"
         }
     ]
+    "require": {
+        "php": ">=5.0.0"
+    },
 }
