@@ -10,8 +10,5 @@
             "homepage": "https://xolf.info",
             "role": "Developer"
         }
-    ],
-    "require": {
-        "php": ">=5.0.0"
-    }
+    ]
 }
