@@ -1,6 +1,5 @@
 {
     "name": "dreamcoil/packagist",
-    "type": "library",
     "description": "Packagist for Dreamcoil",
     "keywords": ["dreamcoil","packagist"],
     "license": "MIT",
@@ -11,5 +10,8 @@
             "homepage": "https://xolf.info",
             "role": "Developer"
         }
-    ]
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
 }
