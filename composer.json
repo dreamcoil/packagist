@@ -12,6 +12,7 @@
         }
     ],
     "require": {
-        "markwilson/verbal-expressions-php": "dev-master"
+        "markwilson/verbal-expressions-php": "dev-master",
+        "matthiasmullie/minify": "1.3.*"
     }
 }
