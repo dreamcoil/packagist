@@ -10,5 +10,8 @@
             "homepage": "https://xolf.info",
             "role": "Developer"
         }
-    ]
+    ],
+    "require": {
+        "markwilson/verbal-expressions-php": "dev-master"
+    }
 }
